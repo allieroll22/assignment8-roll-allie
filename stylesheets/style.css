@@ -84,7 +84,7 @@ section.hero-section {
 
 section.home-bottom {
     clear: both;
-    padding: 85px 55px;
+    padding: 55px 55px;
 }
 
 section.home-bottom img {
@@ -92,6 +92,15 @@ section.home-bottom img {
     padding: 0 45px;
 }
 
+section.home-final {
+    clear: both;
+    padding: 80px 50px;
+}
+
+section.home-final img {
+    float: right;
+    padding: 15px 10px;
+}
 footer {
   background: black;
 }
