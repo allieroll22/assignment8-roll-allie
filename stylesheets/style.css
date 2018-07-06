@@ -110,6 +110,7 @@ section.home-final img {
 }
 footer {
   background: black;
+  padding: 20px; 
 }
 
 footer.container {
